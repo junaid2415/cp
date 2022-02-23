@@ -1,4 +1,4 @@
-problem link = "https://www.codechef.com/problems/CIELAB"
+# problem link = "https://www.codechef.com/problems/CIELAB"
 
 
 a,b = map(int, input().split())
